@@ -11,7 +11,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: calc(100vh - 200px); /* Subtract the header and footer height */
+    height: calc(100vh - 200px); 
     }
     
     .about-us h1 {
@@ -24,8 +24,7 @@
     margin-bottom: 30px;
     color: #fff;
     text-shadow: 2px 2px 4px #000;
-    margin-top: 0; /* Remove default margin /
-    margin-bottom: auto; / Move h1 to the top */
+    margin-top: 0; 
     }
     
     .about-us p {
